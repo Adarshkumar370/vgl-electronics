@@ -1,0 +1,5 @@
+logo=240x240px;
+main_banner=1600x550px;
+card_pics 1200x1200px;
+
+
