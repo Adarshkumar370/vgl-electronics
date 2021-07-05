@@ -15,8 +15,8 @@ const Header = (props) => {
       </Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav ">
-    <Nav className="mr-auto  ">
-      <Nav.Link href="#home">Home</Nav.Link>
+    <Nav className="mr-auto fs-4 ">
+      <Nav.Link href="/">Home</Nav.Link>
       <Nav.Link href="#link">About Us</Nav.Link>
       <NavDropdown title="Categories" id="basic-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">Ceiling Fans</NavDropdown.Item>

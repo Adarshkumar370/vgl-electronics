@@ -2,7 +2,7 @@ import React from 'react'
 import {Row,Col,Container} from 'react-bootstrap'
 const Footer = () => {
     return (
-        <Container fluid>
+        <Container className='mx-auto'>
             <Row>
           <Col>
             <h2 className="fs-1">© Copyright 2021 VGL Electrical Ltd. All rights reserved.</h2>
@@ -14,11 +14,7 @@ Any use of third party trademarks is for identification purposes only and does n
 
 Manufacturer / Importer 
 
-Havells India Ltd.
-Registered Office:
-904, Surya Kiran Building, K.G. Marg, New Delhi – 110001. (India)
-Corporate Office:
-QRG Towers, 2D, Sec- 126, Expressway Noida - 201304 U.P. (India) </Col>
+Address  </Col>
         </Row>
         </Container>
     )
