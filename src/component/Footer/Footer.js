@@ -12,9 +12,9 @@ Any use of third party trademarks is for identification purposes only and does n
           </Col>
           <Col>
 
-Manufacturer / Importer 
+          Vgl Electrical India Private Limited's Corporate  
 
-Address  </Col>
+H/O VINDO KUMAR B-118 GALI NO-7 RAHUL VIHAR VIJAI NAGAR GHAZIABAD Ghaziabad UP 201009 IN  </Col>
         </Row>
         </Container>
     )
