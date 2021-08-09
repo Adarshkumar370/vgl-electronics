@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vgl-electronics/static/css/main.e8eaf379.chunk.css",
+    "main.js": "/vgl-electronics/static/js/main.b0a2b9e1.chunk.js",
+    "main.js.map": "/vgl-electronics/static/js/main.b0a2b9e1.chunk.js.map",
+    "runtime-main.js": "/vgl-electronics/static/js/runtime-main.99281f69.js",
+    "runtime-main.js.map": "/vgl-electronics/static/js/runtime-main.99281f69.js.map",
+    "static/js/2.1131ceea.chunk.js": "/vgl-electronics/static/js/2.1131ceea.chunk.js",
+    "static/js/2.1131ceea.chunk.js.map": "/vgl-electronics/static/js/2.1131ceea.chunk.js.map",
+    "index.html": "/vgl-electronics/index.html",
+    "static/css/main.e8eaf379.chunk.css.map": "/vgl-electronics/static/css/main.e8eaf379.chunk.css.map",
+    "static/js/2.1131ceea.chunk.js.LICENSE.txt": "/vgl-electronics/static/js/2.1131ceea.chunk.js.LICENSE.txt",
+    "static/media/banner.0319f079.png": "/vgl-electronics/static/media/banner.0319f079.png",
+    "static/media/banner.1ae8cb9c.png": "/vgl-electronics/static/media/banner.1ae8cb9c.png",
+    "static/media/banner.4cf58812.png": "/vgl-electronics/static/media/banner.4cf58812.png",
+    "static/media/banner.55245b31.png": "/vgl-electronics/static/media/banner.55245b31.png",
+    "static/media/banner.bf35ce7c.png": "/vgl-electronics/static/media/banner.bf35ce7c.png",
+    "static/media/banner2.42195055.png": "/vgl-electronics/static/media/banner2.42195055.png",
+    "static/media/logo.877b4a97.png": "/vgl-electronics/static/media/logo.877b4a97.png",
+    "static/media/mobile-banner.0f201615.png": "/vgl-electronics/static/media/mobile-banner.0f201615.png",
+    "static/media/mobile-banner.c0343b2e.png": "/vgl-electronics/static/media/mobile-banner.c0343b2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99281f69.js",
+    "static/js/2.1131ceea.chunk.js",
+    "static/css/main.e8eaf379.chunk.css",
+    "static/js/main.b0a2b9e1.chunk.js"
+  ]
+}
