@@ -16,7 +16,7 @@ const Footer = () => {
            </div >
 <div className='w-96 p-3 pt-6 '>
 <span><b className='text-lg'>Contact Us:</b> <i>shaiwal.sahil@vglelectricals.com</i><br/><br/>
-    <b>Address:</b> H/O VINDO KUMAR B-118 GALI NO-7 RAHUL VIHAR VIJAI NAGAR GHAZIABAD
+    <b>Address:</b> H/O B-118 GALI NO-7 RAHUL VIHAR VIJAI NAGAR GHAZIABAD
               Ghaziabad UP 201009 INDIA</span>
 </div>
            </div>

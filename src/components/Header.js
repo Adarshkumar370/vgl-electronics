@@ -28,11 +28,11 @@ const Header = () => {
               About
             </h2>
           </Link>
-          <Link to="/product">
+          {/* <Link to="/product">
             <h2 className="cursor-pointer hover:text-red-900 hover:underline">
               Fans
             </h2>
-          </Link>
+          </Link> */}
         </div>
         <div className="md:hidden">
           <button onClick={menuClick}>

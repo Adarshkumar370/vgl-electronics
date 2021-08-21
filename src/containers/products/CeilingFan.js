@@ -14,6 +14,8 @@ import Feature from "../../components/UI/Feature";
 import Product from "../../components/UI/Product";
 import Banner from "../../components/UI/Banner";
 const CeilingFan = () => {
+ 
+ 
   return (
     <Layout>
       <Banner

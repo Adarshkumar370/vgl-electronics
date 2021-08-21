@@ -33,7 +33,7 @@ const About = () => {
             <i className='text-blue-900 font-semibold'>shaiwal.sahil@vglelectricals.com</i><br/><br/>
             Registered Address: {" "}
             <b>
-              H/O VINDO KUMAR B-118 GALI NO-7 RAHUL VIHAR VIJAI NAGAR GHAZIABAD
+              H/O B-118 GALI NO-7 RAHUL VIHAR VIJAI NAGAR GHAZIABAD
               Ghaziabad UP 201009 INDIA{" "}
             </b>{" "}
           </p>
